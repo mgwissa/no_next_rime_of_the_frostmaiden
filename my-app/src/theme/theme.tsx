@@ -6,11 +6,14 @@ const theme = createTheme({
       main: '#FFF',
     },
     secondary: {
-      main: '#524e3b',
+      main: '#524E3B',
     },
   },
   typography: {
-    fontFamily: 'Oldenburg'
+    fontFamily: 'Oldenburg',
+    h1: {
+      fontFamily: 'Oldenburg',
+    },
   },
 });
 
