@@ -1,22 +1,34 @@
-import { ThemeProvider } from "@mui/material"
+import { ThemeProvider, Typography } from "@mui/material"
 import theme from "../theme/theme"
 
 function Notes() {
   return (
     <div>
       <ThemeProvider theme={theme}>
+        <main>
           <div>
-            <h2>Week 1:</h2>
-            <p>brimshander. First town of 10 towns located in Icewind Dale</p>
-            <p>Brendan Two - Calidan (the slayer) - Human Bloodhunter</p>
-            <p>Tony - Flint Pridebreaker - Hill Dwarf Cleric</p>
-            <p>Brendo - Crimnas Cenovath - Triton Sorceror</p>
-            <p>Will - Admiral - Hippo Man Fighter</p>
-            <p>Tavern - Northlook Inn</p>
-            <p>Dwarves in Tavern - Dendual, Gentrick, Noramona (Goblins stole his "product" - Have a pet bear)</p>
-            <p>Yetis...</p>
-            <p>The ONLY sound the gun makes is "toot toot"</p>
-            <p>KBs: 4</p>
+            <Typography variant="h3">Week 1:</Typography>
+            <Typography variant="body1">
+              brimshander. First town of 10 towns located in Icewind Dale
+              <br />
+              Brendan Two - Calidan (the slayer) - Human Bloodhunter
+              <br />
+              Tony - Flint Pridebreaker - Hill Dwarf Cleric
+              <br />
+              Brendo - Crimnas Cenovath - Triton Sorceror
+              <br />
+              Will - Admiral - Hippo Man Fighter
+              <br />
+              Tavern - Northlook Inn
+              <br />
+              Dwarves in Tavern - Dendual, Gentrick, Noramona (Goblins stole his "product" - Have a pet bear)
+              <br />
+              Yetis...
+              <br />
+              The ONLY sound the gun makes is "toot toot"
+              <br />
+              KBs: 4
+            </Typography>
           </div>
           <div>
             <h2>Week 2:</h2>
@@ -32,6 +44,39 @@ function Notes() {
             <p>Brylbore - Fishernman, apparently there is a monster in the water</p>
             <p></p>
           </div>
+          <div>
+            <h2>Week 3:</h2>
+            <p>Trex - Friendly Kobold speaking common</p>
+          </div>
+          <div>
+            <h2>Week 4:</h2>
+            <Typography variant="body1">
+              Killed an awakened Polar bear
+              <br />
+              10% discount from blacksmith
+              <br />
+              Helen Trollbane: paying us 100 gold each to find Sepheric Culturo
+              <br />
+              3 Murders:
+              <br />
+              halfling trapper in east haven
+              <br />
+              ship builder in tartaros
+              <br />
+              glass blower at the docks
+              <br />
+              Every victim was found with a dagger of ice through their heart.
+              <br />
+              She thinks Sepheric Culturo who works at Torg's which is run by Torga Icevain (a shady dwarf)
+              <br />
+              Were here 5 days ago, she guessed heading to Bremen next
+              <br />
+              come back in 5 days for scale mail
+              <br />
+              Renug - glassblower that was murdered. Had some interesting meetings with Tilna Mellow (fancy dressed) who's on the speaker's board.
+            </Typography>
+          </div>
+        </main>
       </ThemeProvider>
     </div>
   )

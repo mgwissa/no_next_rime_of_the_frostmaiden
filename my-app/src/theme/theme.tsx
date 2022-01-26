@@ -1,3 +1,4 @@
+import { autocompleteClasses } from '@mui/material';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 
 const theme = createTheme({
@@ -13,8 +14,18 @@ const theme = createTheme({
     fontFamily: 'Oldenburg',
     h1: {
       fontFamily: 'Oldenburg',
+      textAlign: 'center',
     },
   },
+  components: {
+    MuiCardMedia: {
+        styleOverrides: {
+          root: {
+            margin: '0 auto',
+          }
+        }
+    },
+  },  
 });
 
 export default theme;
