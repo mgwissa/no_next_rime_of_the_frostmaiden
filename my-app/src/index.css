@@ -1,6 +1,7 @@
 body {
-  background: url("https://images.unsplash.com/photo-1489381452699-84dc6e8ac8f7?dpr=1&auto=format&fit=crop&w=1500&h=998&q=80&cs=tinysrgb&crop=") no-repeat;
+  background: url("../public/rime_wallpaper.jpg") no-repeat;
   background-size: cover;
+  background-position: center;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Oldenburg', cursive, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',

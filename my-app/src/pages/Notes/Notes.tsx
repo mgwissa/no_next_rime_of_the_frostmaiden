@@ -64,7 +64,7 @@ function Notes() {
             <Typography variant="body1">
               Killed an awakened Polar bear
               <br />
-              10% discount from blacksmith
+              Grundall and Grimshander - blacksmith 10% discount
               <br />
               Helen Trollbane: paying us 100 gold each to find Sepheric Culturo
               <br />
@@ -78,13 +78,53 @@ function Notes() {
               <br />
               Every victim was found with a dagger of ice through their heart.
               <br />
-              She thinks Sepheric Culturo who works at Torg's which is run by Torga Icevain (a shady dwarf)
+              She thinks Selphek kaltro (very very blue eyes) who works at Torg's which is run by Torga Icevain (a shady dwarf)
               <br />
               Were here 5 days ago, she guessed heading to Bremen next
               <br />
               come back in 5 days for scale mail
               <br />
-              Renug - glassblower that was murdered. Had some interesting meetings with Tilna Mellow (fancy dressed) who's on the speaker's board.
+              Renug Flathand - glassblower that was murdered. Had some interesting meetings with Tilna Mellow (fancy dressed) who's on the speaker's board.
+              <br />
+              - sherif lives near the council hall
+              <br />
+              - Flint, Admiral, Calidan, and me put our names in the box
+              <br />
+              - Sherif Markham Southwell and Speaker Duvessa Shane.
+              - Tell Captain Arlaggath (East Haven) and "Swine" Scath (Targos) that Sherif Markham will find out who did it.
+              - Calvin's Can makes these weird type of weapons, Selphek has a sword made of the same stuff (maybe)
+            </Typography>
+          </div>
+          <div>
+            <Typography variant="h3" color="textPrimary">Week 5:</Typography>
+            <Typography variant="body1">
+              Amaunator - Preaching about The God of The Sun (Their version of The Morning Lord)
+              <br />
+              Lathander - A servant of Amaunator's light
+              <br />
+              Markham doesn't believe the board is drawing fairly. There's 8 of them. Tilna Melo hung out with Renug.
+              <br />
+              Recent Losers: Ratumil Nazaren (female half-elf), Garos Ros (male half-ling) Roa (male half-orc)
+              <br />
+              My Number: 17
+              <br />
+              Ako Gaglin
+              <br />
+              Bremen:
+              <br />
+              5 taverns - stones, even keel, the river's mouth, the grumpy moose, the black-bearded brother 
+              <br />
+              Inn on south side of town "Buried Treasures"
+              <br />
+              Now in Targos:
+              <br />
+              Shield seal is a Ship
+              <br />
+              Keegan Velren, a human born in 10 Towns
+              <br />
+              His husband was trying to calm a mountain. The dog was his.
+              <br />
+              Will pay us in free board at the Inn and artwork (?) to find his husband
             </Typography>
           </div>
         </main>

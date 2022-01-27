@@ -24,7 +24,7 @@ function App() {
           image="/earth_genasi.png"
           alt="Sandstone"
         />
-        <Link href="https://www.dndbeyond.com/" target="_blank" color="textPrimary" className="character-sheet-link">Character Sheet</Link>
+        <Link href="https://www.dndbeyond.com/profile/Miiiiike/characters/63068909" target="_blank" color="textPrimary" className="character-sheet-link">Character Sheet</Link>
       </ThemeProvider>
       <Routes>
         <Route path="/notes" element={<Notes />} />

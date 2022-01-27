@@ -5,7 +5,7 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 const theme = createTheme({
   palette: {
     text: {
-      primary: '#FFF',
+      primary: '#000',
     },
     secondary: {
       main: '#524E3B',
@@ -18,7 +18,7 @@ const theme = createTheme({
       textAlign: 'center',
     },
     body1: {
-      color: '#FFF',
+      color: '#000',
     },
   },
   components: {
