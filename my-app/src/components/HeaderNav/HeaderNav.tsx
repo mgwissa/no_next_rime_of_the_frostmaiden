@@ -1,12 +1,9 @@
 import {
-  BrowserRouter,
-  Routes,
-  Route,
   Link
 } from "react-router-dom";
 
 import { ThemeProvider, Button, CardMedia } from "@mui/material";
-import theme from "../theme/theme";
+import theme from "../../theme/theme";
 
 import "./HeaderNav.scss"
 

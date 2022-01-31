@@ -6,9 +6,10 @@ import {
 import { ThemeProvider, Typography, CardMedia, Link } from "@mui/material";
 import theme from "./theme/theme";
 
-import HeaderNav from "./components/HeaderNav";
+import HeaderNav from "./components/HeaderNav/HeaderNav";
 import Home from "./pages/Home/Home";
 import Notes from "./pages/Notes/Notes";
+import MongoDB from "./components/MongoDB/MongoDB";
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
           image="/earth_genasi.png"
           alt="Sandstone"
         />
+        <MongoDB />
         <Link href="https://www.dndbeyond.com/profile/Miiiiike/characters/63068909" target="_blank" color="textPrimary" className="character-sheet-link">Character Sheet</Link>
       </ThemeProvider>
       <Routes>

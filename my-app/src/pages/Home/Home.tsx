@@ -1,4 +1,4 @@
-import { ThemeProvider, Button } from "@mui/material";
+import { ThemeProvider } from "@mui/material";
 import theme from "../../theme/theme";
 import { Link } from "react-router-dom";
 

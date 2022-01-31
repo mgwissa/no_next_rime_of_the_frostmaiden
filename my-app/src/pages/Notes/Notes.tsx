@@ -1,11 +1,28 @@
-import { ThemeProvider, Typography } from "@mui/material"
-import theme from "../../theme/theme"
+import { ThemeProvider, Typography, Box, TextField, Button } from "@mui/material";
+import theme from "../../theme/theme";
 
 function Notes() {
   return (
     <div>
       <ThemeProvider theme={theme}>
         <main>
+          <Box
+            component="form"
+            sx={{
+              '& .MuiTextField-root': { m: 1, width: '50rem' },
+            }}
+            noValidate
+            autoComplete="off"
+          >
+            <TextField
+              id="entry"
+              label="Entry"
+              placeholder="Entry"
+              multiline
+              variant="filled"
+            />
+            <Button variant="outlined">Submit</Button>
+          </Box>
           <div>
             <Typography variant="h3" color="textPrimary">Week 1:</Typography>
             <Typography variant="body1" color="textPrimary">
