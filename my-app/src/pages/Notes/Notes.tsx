@@ -144,6 +144,30 @@ function Notes() {
               Will pay us in free board at the Inn and artwork (?) to find his husband
             </Typography>
           </div>
+          <div>
+            <Typography variant="h3" color="textPrimary">Week 5:</Typography>
+            <Typography variant="body1">
+              Narth - The Speaker, shady af
+              <br />
+              Scath - The speaker's minion (Narth's captain)
+              <br />
+              Has 3 flying snakes in a cage.
+              <br />
+              Victim - Taryn, an official on the board. Found on the north end of the docks.
+              <br />
+              Bartender - Ethan
+              <br />
+              We hear about a band of adventurers that were heading to Calvin's Caryn. Looking for Oya Minartark, a goliath lycanthrope that can transform into a polar bear
+              <br />
+              Drow board member - Zauar Gith
+              <br />
+              Board member in charge of the finances - Umptar Gap
+              <br />
+              Narth may be in trouble, he was apprehensive and then started acting really weird until eventually handing me a piece of paper with two names on it: 
+              <br />
+              Kerchack Fidgrath and Elira Songsteel 
+            </Typography>
+          </div>
         </main>
       </ThemeProvider>
     </div>
