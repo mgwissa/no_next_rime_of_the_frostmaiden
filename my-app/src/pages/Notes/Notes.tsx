@@ -95,7 +95,7 @@ function Notes() {
               <br />
               Every victim was found with a dagger of ice through their heart.
               <br />
-              She thinks Selphek kaltro (very very blue eyes) who works at Torg's which is run by Torga Icevain (a shady dwarf)
+              She thinks Sephik Kaltro (very very blue eyes) who works at Torg's which is run by Torga Icevain (a shady dwarf)
               <br />
               Were here 5 days ago, she guessed heading to Bremen next
               <br />
@@ -145,7 +145,7 @@ function Notes() {
             </Typography>
           </div>
           <div>
-            <Typography variant="h3" color="textPrimary">Week 5:</Typography>
+            <Typography variant="h3" color="textPrimary">Week 6:</Typography>
             <Typography variant="body1">
               Narth - The Speaker, shady af
               <br />
@@ -166,6 +166,22 @@ function Notes() {
               Narth may be in trouble, he was apprehensive and then started acting really weird until eventually handing me a piece of paper with two names on it: 
               <br />
               Kerchack Fidgrath and Elira Songsteel 
+            </Typography>
+          </div>
+          <div>
+            <Typography variant="h3" color="textPrimary">Week 8:</Typography>
+            <Typography variant="body1">
+              Got to the cave and they were attacked by a Yeti.
+              <br />
+              Who we're looking for:
+              <br />
+              Makingo Growling Bear - Male Goliath Warior (Dead)
+              <br />
+              Fish Finger - Female Lightfoot Halfling
+              <br />
+              Asteriks - Female Tiefling
+              <br />
+              The Torgs came with them, their plan was to cut across the Dwarven Valley to Caer-Dineval
             </Typography>
           </div>
         </main>

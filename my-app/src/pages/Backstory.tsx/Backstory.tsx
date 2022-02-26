@@ -1,0 +1,17 @@
+import { ThemeProvider } from "@mui/material";
+import theme from "../../theme/theme";
+import { Link } from "react-router-dom";
+
+function Backstory() {
+  return (
+    <div className="App">
+      <ThemeProvider theme={theme}>
+        <Link to="/notes" color="textPrimary">
+          Notes
+        </Link>
+      </ThemeProvider>
+    </div>
+  );
+}
+
+export default Backstory;
