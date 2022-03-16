@@ -139,7 +139,7 @@ function Notes() {
               <br />
               Keegan Velren, a human born in 10 Towns
               <br />
-              His husband was trying to calm a mountain. The dog was his.
+              His husband was trying to climb a mountain. The dog was his.
               <br />
               Will pay us in free board at the Inn and artwork (?) to find his husband
             </Typography>
@@ -179,9 +179,19 @@ function Notes() {
               <br />
               Fish Finger - Female Lightfoot Halfling
               <br />
-              Asteriks - Female Tiefling
+              Asteriks - Female Tiefling (Dead)
               <br />
               The Torgs came with them, their plan was to cut across the Dwarven Valley to Caer-Dineval
+            </Typography>
+            <Typography variant="h3" color="textPrimary">Week 9:</Typography>
+            <Typography variant="body1">
+              Brown bag with lots of spells that Tony is now responsible for.
+              <br />
+              Both Garret and Fish Finger do not know Kerchack or Elira
+              <br />
+              Keegan gives us a box of 4 statues worth 10 gold each. Smiling fox is mine.
+              <br />
+              Keegan also has made it so that we have free lodging in Targos.
             </Typography>
           </div>
         </main>
