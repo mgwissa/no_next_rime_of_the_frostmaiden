@@ -18,23 +18,33 @@ function HeaderNav() {
           image="/logo.png"
           alt="Sandstone"
         />
-        <div className="header-links">
-          <Link to="/">
-            <Button>Home</Button>
-          </Link>
-          <Link to="/notes">
-            <Button>Notes</Button>
-          </Link>
-          <a href="https://www.dndbeyond.com/profile/Miiiiike/characters/63068909" rel="noreferrer" target="_blank">
-            <Button>Character Sheet</Button>
-          </a>
-          <a href="https://www.dndbeyond.com/classes/warlock" rel="noreferrer" target="_blank">
-            <Button>Class</Button>
-          </a>
-          <a href="/backstory_sandstone.pdf" rel="noreferrer" target="_blank">
-            <Button>Backstory</Button>
-          </a>
-        </div>
+          <ul className="header-links">
+            <li>
+              <Link to="/">
+                Home
+              </Link>
+            </li>
+            <li>
+              <Link to="/notes">
+                Notes
+              </Link>
+            </li>
+            <li>
+              <a href="https://www.dndbeyond.com/profile/Miiiiike/characters/63068909" rel="noreferrer" target="_blank">
+                Character Sheet
+              </a>
+            </li>
+            <li>
+              <a href="https://www.dndbeyond.com/classes/warlock" rel="noreferrer" target="_blank">
+                Class
+              </a>
+            </li>
+            <li>
+              <a href="/backstory_sandstone.pdf" rel="noreferrer" target="_blank">
+                Backstory
+              </a>
+            </li>
+          </ul>
         </ThemeProvider>
     </div>
   );

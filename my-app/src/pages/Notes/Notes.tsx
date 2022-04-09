@@ -193,6 +193,12 @@ function Notes() {
               <br />
               Keegan also has made it so that we have free lodging in Targos.
             </Typography>
+            <Typography variant="h3" color="textPrimary">Week 10:</Typography>
+            <Typography variant="body1">
+              Etnice in The Frozen Far Expeditions has a scout - Jarthra (Shield Dwarf) who is helping us find the missing lantern for 10G per day.
+              <br />
+
+            </Typography>
           </div>
         </main>
       </ThemeProvider>
