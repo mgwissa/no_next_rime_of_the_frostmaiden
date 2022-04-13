@@ -27,4 +27,7 @@ function Header() {
           {/* <MongoDB /> */}
         </ThemeProvider>
       </div>
+  )
 }
+
+export default Header;
