@@ -196,8 +196,22 @@ function Notes() {
             <Typography variant="h3" color="textPrimary">Week 10:</Typography>
             <Typography variant="body1">
               Etnice in The Frozen Far Expeditions has a scout - Jarthra (Shield Dwarf) who is helping us find the missing lantern for 10G per day.
+            </Typography>
+            <Typography variant="h3" color="textPrimary">Week 11:</Typography>
+            <Typography variant="body1">
+              Dear my brother nildar you will find me on the frozen ferry in east haven the search for chardalyn continues - Dirth.
               <br />
-
+              Chardalyn are rare, shiny black stones - possibly can be turned into magic.
+              <br />
+              We find 3 human-like plant prisoners - they attacked us so we killed them.
+              <br />
+              I wake up in the lobby faintly hearing Bane's voice but can't make it out.
+              <br />
+              We run into the Torgs finally
+              <br />
+              Sepheck - Warlock who made his pact with The Frostmaiden, blue eyes, made ice longsword apppear out of nowhere on his waist.
+              <br />
+              During the conversation with Sepheck, I was feeling a burning rage that I wasn't the source of. It was making me really really want to kill him. I was white-knuckling my hilt.
             </Typography>
           </div>
         </main>
