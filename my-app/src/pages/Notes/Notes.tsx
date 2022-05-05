@@ -1,5 +1,6 @@
 import { ThemeProvider, Typography, Box, TextField, Button } from "@mui/material";
 import theme from "../../theme/theme";
+import "./Notes.scss";
 
 function Notes() {
   return (
@@ -34,7 +35,9 @@ function Notes() {
               <br />
               Brendo - Crimnas Cenovath - Triton Sorceror
               <br />
-              Will - Admiral - Hippo Man Fighter
+              <span className="line-through">Will - Admiral - Hippo Man Fighter</span>
+              <br />
+              Will - Squinty Eyes Willy
               <br />
               Tavern - Northlook Inn
               <br />
@@ -212,6 +215,38 @@ function Notes() {
               Sepheck - Warlock who made his pact with The Frostmaiden, blue eyes, made ice longsword apppear out of nowhere on his waist.
               <br />
               During the conversation with Sepheck, I was feeling a burning rage that I wasn't the source of. It was making me really really want to kill him. I was white-knuckling my hilt.
+            </Typography>
+            <Typography variant="h3" color="textPrimary">Week 12:</Typography>
+            <Typography variant="body1">
+              Admiral is gone...
+              <br />
+              Will's new character: Squinty Eyes Willy older Halfling
+              <br />
+              We killed Sepheck and Torga.
+              <br />
+              Rumor 1: did you hear what happened to the evil wizard in east haven? They burned him at the stake. Tower of Auril is directly east of Caer-Konig
+              <br />
+              Rumor 2: The Everlasting Rime is the Arcane Brotherhood's doing. Vaelish Gant is behind this all. An informant is locked away in Rebel's End
+              <br />
+              Rumor 3: No new rumor
+              <br />
+              Rumor 4: Frost Giants' leaders, The Jarls are out to the west
+              <br />
+              Rumor 5: Northwest of Bremen there's a frozen pirate ship. Possibly full of treasure
+            </Typography>
+            <Typography variant="h3" color="textPrimary">Week 13:</Typography>
+            <Typography variant="body1">
+              Crimnas died to a random ancient white dragon
+              <br />
+              I feel the inner stuggle again one night. I try to lean into it and hear Bane telling me to "Fight it" and "Struggle". I respond by trying to lean into my warlock spells
+              <br />
+              Innkeeper at Easthaven - Ronaldo
+              <br />
+              Inn is haunted by Innkeeper's wife
+              <br />
+              Raymond Rockwell - Brendo's new character
+              <br />
+
             </Typography>
           </div>
         </main>
