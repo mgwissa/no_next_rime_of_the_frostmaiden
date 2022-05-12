@@ -246,7 +246,20 @@ function Notes() {
               <br />
               Raymond Rockwell - Brendo's new character
               <br />
-
+            </Typography>
+            <Typography variant="h3" color="textPrimary">Week 14:</Typography>
+            <Typography variant="body1">
+              Dezzan has been recognized and arrested for crimes against the Dalefolk. (Killed a group of adventurers)
+              <br />
+              Captain Arlaggath - Half Elf town captain from East Haven
+              <br />
+              4 fishers have gone missing, it's hard to sail obviously, there are a few competing fishers here. Names are "Bunch O Knuckleheads"
+              <br />
+              Rewards are a scroll and a small gray bag.
+              <br />
+              We are now in a cave in Lac Dinneshere trying to find them.
+              <br />
+              We killed a Water Weird.
             </Typography>
           </div>
         </main>
