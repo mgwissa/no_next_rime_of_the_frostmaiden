@@ -261,6 +261,16 @@ function Notes() {
               <br />
               We killed a Water Weird.
             </Typography>
+            <Typography variant="h3" color="textPrimary">Week 15:</Typography>
+            <Typography variant="body1">
+              Fairy was run by Skython, he's hanging out at the Wet Trout (bar in town)
+            </Typography>
+            <Typography variant="h3" color="textPrimary">Week 16:</Typography>
+            <Typography variant="body1">
+              We killed Dirth. So now we've killed both Nildar and Dirth.
+              <br />
+              We bought 4 Axbeaks for travelling.
+            </Typography>
           </div>
         </main>
       </ThemeProvider>
