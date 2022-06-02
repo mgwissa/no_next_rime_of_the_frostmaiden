@@ -1,4 +1,4 @@
-import { ThemeProvider, Typography, Box, TextField, Button } from "@mui/material";
+import { ThemeProvider, Typography, Box, TextField, Button, Link } from "@mui/material";
 import theme from "../../theme/theme";
 import "./Notes.scss";
 
@@ -270,6 +270,20 @@ function Notes() {
               We killed Dirth. So now we've killed both Nildar and Dirth.
               <br />
               We bought 4 Axbeaks for travelling.
+            </Typography>
+            <Typography variant="h3" color="textPrimary">Week 17:</Typography>
+            <Typography variant="body1">
+              I have a new patron but I don't know who it is... voice is a soft femail voice
+              <br />
+              Heading back to Targos to question Narth about my family. Mentioned Zentarem may be involved.
+              <br />
+              I now know <Link href="https://www.dndbeyond.com/spells/ray-of-frost" target="_blank">Ray of Frost</Link>
+              <br />
+              Caer-Dineval is a good spot to find Luskans because The Blades have a presence there.
+              <br />
+              Scath is a mercenary hired by The Zhentarim.
+              <br />
+              Narth is about to tell us everything or we're killing him
             </Typography>
           </div>
         </main>
