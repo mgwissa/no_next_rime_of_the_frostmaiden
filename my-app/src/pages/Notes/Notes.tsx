@@ -285,6 +285,18 @@ function Notes() {
               <br />
               Narth is about to tell us everything or we're killing him
             </Typography>
+            <Typography variant="h3" color="textPrimary">Week 18:</Typography>
+            <Typography variant="body1">
+              Cair Dineval
+              <br />
+              Zhentarim Insignia - 3 snakes
+              <br />
+              The Blades Insignia - Gauntlet with 3 spikes
+              <br />
+              Now in Caer Dineval
+              <br />
+              Ray and Squinty infiltrated the castle.
+            </Typography>
           </div>
         </main>
       </ThemeProvider>
