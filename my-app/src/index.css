@@ -1,17 +1,17 @@
 body {
-  /* background: url("../public/rime_wallpaper.jpg") no-repeat; */
-  background-size: cover;
-  background-position: center;
+  /* background-image: url(https://cdnb.artstation.com/p/assets/images/images/029/369/979/large/dominik-zdenkovic-elves-of-ilfelin.jpg?1597322419);
+  background-repeat: no-repeat;
+  background-size: cover; */
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Oldenburg', cursive, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Oldenburg", cursive,
+    "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
